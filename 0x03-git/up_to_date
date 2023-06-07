@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 git fetch origin main && git merge origin/main
+=======
+touch
+>>>>>>> update_script
