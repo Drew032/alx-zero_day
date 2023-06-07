@@ -1,0 +1,1 @@
+Answer: The command 'uname' prints the name of the operating system.
